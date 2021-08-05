@@ -5,4 +5,4 @@
 <br>The spiral galaxy laboratory was created in 2010 and is conducting ransomware research.
 <br> Our research center is located on 12th Street, Eunha-dong, Seoul, Korea.
 
-+ contact: /*blog*/
++ contact: https://kimsosad.tistory.com/
