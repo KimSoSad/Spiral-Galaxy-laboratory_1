@@ -1,4 +1,4 @@
-# Spiral-Galaxy-laboratory_1
+# Spiral-Galaxy-laboratory
 
 Welcome to the spiral galaxy lab GitHub.
 <br>I'm Kim So Sad, in charge of GitHub at Na Sunha Institute.
